@@ -4,7 +4,7 @@ Naive Bayes Classifier
 By Francis Tseng (@frnsys)
 
 Ported/adapted from Edwin Chen's Ruby Naive Bayes Classifer
-http://blog.echen.me/2011/05/05/twss-building-a-thats-what-she-said-classifier/
+http://goo.gl/uLmBf
 """
 
 import collections
